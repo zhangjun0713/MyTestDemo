@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="phoneNumber1" type="id" />
+    <item name="phoneNumber2" type="id" />
+    <item name="phoneNumber3" type="id" />
+    <item name="phoneNumber4" type="id" />
+    <item name="phoneNumber5" type="id" />
+    <item name="phoneNumber6" type="id" />
+    <item name="phoneNumber7" type="id" />
+    <item name="phoneNumber8" type="id" />
+    <item name="phoneNumber9" type="id" />
+    <item name="phoneNumber10" type="id" />
+</resources>
