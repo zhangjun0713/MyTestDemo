@@ -1,1 +1,1 @@
-include ':photo', ':music', ':photowallfall'
+include ':photo', ':music', ':photowallfall', ':contactbackup'
